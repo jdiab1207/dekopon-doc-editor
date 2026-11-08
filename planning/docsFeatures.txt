@@ -1,0 +1,61 @@
+1. Text Formatting & Typography
+Basic Text Formatting: Bold, italic, underline, strikethrough, superscript, subscript, text color, and highlight color.
+
+Font Controls: Access to Google Fonts library, font sizing, and custom font styling.
+
+Paragraph Styling: Line and paragraph spacing, custom paragraph borders/shading, indentations (left, right, hanging), and alignment (left, center, right, justified).
+
+Preset Styles: Built-in headings (Title, Subtitle, Heading 1–6) for clear structural hierarchy.
+
+Paint Format: Copies formatting from one text section and applies it to another.
+
+Clear Formatting: Instantly strips custom formatting from selected text.
+
+2. Page & Layout Tools
+Paginated vs. Pageless Mode: Switch between traditional page breaks and a continuous canvas (Pageless) ideal for digital-first documents and wide tables.
+
+Page Setup: Controls for margins, paper orientation (portrait/landscape per section or document), page size, and background color.
+
+Headers & Footers: Custom header/footer areas with options for unique first page or odd/even pages.
+
+Page Numbers & Counts: Insert live page counts, page numbers, and view character/word counters.
+
+Section & Page Breaks: Next page breaks, continuous section breaks, and column breaks.
+
+Multi-column Layouts: Format text into 2 or 3 columns with adjustable spacing and divider lines.
+
+Outline & Document Summary: Automatically generates a clickable table of contents/outline in the left sidebar based on headings.
+
+3. Other
+
+Commenting: Add threaded comments to specific text, assign actionable task items.
+
+Emoji Reactions: Quickly react to specific text sections with emojis instead of leaving full comments.
+
+Suggesting Mode: Track changes where edits appear as proposals that document owners can accept or reject.
+
+Version History: Review every prior draft, name specific versions, compare revisions, and restore previous iterations.
+
+5. Media, Tables & Visual Elements
+Tables: Custom table layouts with controls for padding, border styling, cell merging, column width, row background color, and header pin/repeat.
+
+Images: Upload, edit, crop, adjust transparency/re-color, and select text wrapping (In line, Wrap text, Break text, Behind text, In front of text).
+
+Charts: Insert live-linked charts (Bar, Column, Line, Pie) powered by Google Sheets data.
+
+Watermarks: Add image or text watermarks behind document content across all pages.
+
+Horizontal Lines & Special Characters: Insert dividing lines, symbols, accented characters, and emojis.
+
+7. Productivity Tools & Add-Ons
+Table of Contents: Insert a auto-updating directory page with blue links or page numbers.
+
+Footnotes & Citations: Add bottom-of-page references and manage bibliographies (APA, MLA, Chicago).
+
+Google Keep Integration: Side-panel access to drag and drop notes and checklists into the document.
+
+Google Tasks Integration: Convert comment action items or @mention tasks directly into Google Tasks.
+
+
+8. Export
+Multi-format Export: Download as .docx, .pdf, .rtf, .epub, .odt, .html (zipped), or .txt.

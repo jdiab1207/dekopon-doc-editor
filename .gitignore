@@ -1,0 +1,33 @@
+# Dependencies & build
+node_modules/
+dist/
+client/dist/
+.cache/
+.puppeteer_cache/
+*.tmp
+
+# Secrets & env
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+
+# Local user content (never publish)
+documents/*
+!documents/.gitkeep
+data/*
+!data/.gitkeep
+!data/versions/
+data/versions/*
+!data/versions/.gitkeep
+
+# Personal / private artifacts
+discordLogs.txt
+*.docx
+_debug_prepared.html
+/Editor
+planning/REPORT.md
